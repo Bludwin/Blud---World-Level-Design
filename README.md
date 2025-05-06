@@ -5,6 +5,6 @@ I have started my journey with unity's online "create with code" courses and fro
 
 My skills are fast developing and my creative approach to world design comes naturally. 
 
-I am currently seeking a full time career within the game development industry to work in level design / world design. I hope you enoy what is to be added as i continue my journey towards my goal. 
+I am currently seeking a full time career within the game development industry to work in level design / world design. I hope you enoy what is to be added as i continue my journey towards my goals & continue to work with the voidfall dev team to complete a finished product of our beautiful game. 
 
 PEACE :) 
