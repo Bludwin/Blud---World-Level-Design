@@ -1,48 +1,51 @@
-# Blud---1st ever attempt at world design
+![Screenshot 2025-04-30 122007](https://github.com/user-attachments/assets/f0e3d360-fb99-4d6b-9281-e8679238b2cb)# Blud---1st ever Level Designer Role
 
-These are screenshots from my first ever attempt at building a world, with no experience with this stuff before or with unity's software. I had no idea you could create terrain without using assets or even snap objects together or to the ground! All of what i did here i did with a £9 synty low poly pack and had major restrictions on the amount of assets i had available. This isnt the finished product its just an example of my creativity. I am currently working on a more realistic world for a game called voidfall. Check out my other branches to have a peek!
+These are screenshots from my first ever attempt at building a more realistic world than my previous low poly attempt. This is for the game voidfall where i have been given the role of level designer. This is just the first world. Its no where near finished but here's what ive done so far.
 
-![Screenshot 2025-04-29 175412](https://github.com/user-attachments/assets/28b008f7-4c85-4d70-80fb-39392751d9cf)
 
-![Screenshot 2025-04-29 171650](https://github.com/user-attachments/assets/bb047a4b-637f-4957-bf7b-3bb513ac40a0)
+![Screenshot 2025-04-30 122007](https://github.com/user-attachments/assets/6fcf25ba-9535-4fd5-b3d0-b2a194adfab6)
 
-![Screenshot 2025-04-29 171717](https://github.com/user-attachments/assets/86c7deff-4cd8-4b58-bc1d-fac9b99f2354)
+![Screenshot 2025-04-30 141034](https://github.com/user-attachments/assets/229ef681-847a-4e71-8d24-c121fac6e405)
 
-![Screenshot 2025-04-29 171733](https://github.com/user-attachments/assets/927add7b-33e6-4595-a4fb-b274133ed8a4)
+![Screenshot 2025-04-30 142740](https://github.com/user-attachments/assets/96ac3e0a-72d8-4af6-92d9-d663852d413d)
 
-![Screenshot 2025-04-29 171733](https://github.com/user-attachments/assets/2583faca-e013-49b7-b631-acbb9aaa6fea)
+![Screenshot 2025-05-01 141148](https://github.com/user-attachments/assets/23866616-f0fd-4776-9e7e-4f8de1940ad1)
 
-![Screenshot 2025-04-29 171614](https://github.com/user-attachments/assets/4717df0b-8b2d-46bc-952e-c881a31b5ee5)
+![Screenshot 2025-05-01 175350](https://github.com/user-attachments/assets/60823544-8f14-4140-a1cb-1a09456733f4)
 
-![Screenshot 2025-04-29 171455](https://github.com/user-attachments/assets/d91c2a9f-ce4a-434f-9428-bf12c117c1dc)
+![Screenshot 2025-05-02 142855](https://github.com/user-attachments/assets/3eefefaa-3a85-4ca3-84b2-b4407bb995fb)
 
-![Screenshot 2025-04-29 171418](https://github.com/user-attachments/assets/59049d81-884d-41e6-9656-b0bd55a45be5)
+![Screenshot 2025-05-04 191704](https://github.com/user-attachments/assets/bff97320-162f-4b7b-94c7-bc6f0619e5a2)
 
-![Screenshot 2025-04-29 174604](https://github.com/user-attachments/assets/0211c4be-2120-4ff7-ae57-a47226f893c7)
+![Screenshot 2025-05-06 121728](https://github.com/user-attachments/assets/9116e127-2d25-46cf-bc33-c3c8af316bfc)
 
-![Screenshot 2025-04-29 174656](https://github.com/user-attachments/assets/87b36a0b-2319-4f0a-b768-bb93fd3f1859)
+![Screenshot 2025-05-06 121802](https://github.com/user-attachments/assets/f89bc8dc-6f03-4cd6-bd1d-7b5cd24f2d92)
 
-![Screenshot 2025-04-29 175543](https://github.com/user-attachments/assets/5b3aa95c-bfe1-40fc-8e1a-30aaceeda8dc)
+![Screenshot 2025-05-06 134211](https://github.com/user-attachments/assets/0eecfdaf-de82-45bf-8a4a-ccb6c9c5fb8a)
 
-![Screenshot 2025-04-29 171759](https://github.com/user-attachments/assets/5160ea0a-c2ff-42f4-a327-7291134f6099)
+![Screenshot 2025-05-06 134227](https://github.com/user-attachments/assets/a42ff80c-2ad9-41eb-b369-6d5109c5ad5f)
 
-![Screenshot 2025-04-29 171818](https://github.com/user-attachments/assets/02a83f17-469f-4809-9627-a8f5079ab350)
+![Screenshot 2025-05-06 134924](https://github.com/user-attachments/assets/878f49c7-23f6-4495-ae91-8dc95567ce59)
 
-![Screenshot 2025-04-29 171836](https://github.com/user-attachments/assets/dc837ab1-6965-4a20-bce2-38be88829eed)
+![Screenshot 2025-05-06 141212](https://github.com/user-attachments/assets/31ee3cad-0b54-42d0-b096-b9df52e1cc3f)
 
-![Screenshot 2025-04-29 171733](https://github.com/user-attachments/assets/a3557443-d1f0-427f-b46c-b75d53c3ed4a)
+![Screenshot 2025-05-06 183606](https://github.com/user-attachments/assets/5d9fde8b-6343-4a79-adb9-4e76087f8791)
 
-![Screenshot 2025-04-29 171553](https://github.com/user-attachments/assets/ecc5ba1d-8665-4a0c-b719-dc85e4533978)
 
-![Screenshot 2025-04-29 171515](https://github.com/user-attachments/assets/5921098c-2ef7-4e20-8104-2150923bb2b2)
 
-![Screenshot 2025-04-29 171155](https://github.com/user-attachments/assets/812ecac9-3b11-426c-b108-6c582b097928)
 
-![Screenshot 2025-04-29 171249](https://github.com/user-attachments/assets/cdcb913b-3c0f-4574-b89a-103e76d5206a)
 
-![Screenshot 2025-04-29 172627](https://github.com/user-attachments/assets/685138f6-34c6-49ed-bc59-7b15f8f44f33)
 
-![Screenshot 2025-04-29 172423](https://github.com/user-attachments/assets/4d21fde2-e642-4191-aade-fa61937638cb)
+
+
+
+
+
+
+
+
+
+
 
 
 
