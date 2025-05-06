@@ -1,7 +1,8 @@
-![Screenshot 2025-04-30 122007](https://github.com/user-attachments/assets/f0e3d360-fb99-4d6b-9281-e8679238b2cb)# Blud---1st ever Level Designer Role
+# Blud---1st ever Level Designer Role
 
 These are screenshots from my first ever attempt at building a more realistic world than my previous low poly attempt. This is for the game voidfall where i have been given the role of level designer. This is just the first world. Its no where near finished but here's what ive done so far.
 
+![Screenshot 2025-04-30 122007](https://github.com/user-attachments/assets/f0e3d360-fb99-4d6b-9281-e8679238b2cb)
 
 ![Screenshot 2025-04-30 122007](https://github.com/user-attachments/assets/6fcf25ba-9535-4fd5-b3d0-b2a194adfab6)
 
