@@ -8,3 +8,15 @@ My skills are fast developing and my creative approach to world design comes nat
 I am currently seeking a full time career within the game development industry to work in level design / world design. I hope you enoy what is to be added as i continue my journey towards my goals & continue to work with the voidfall dev team to complete a finished product of our beautiful game. 
 
 PEACE :) 
+
+I also run a xbox dayz community server & a gaming hub for apocalypse games and free console coding  / .json services for dayz
+
+Wastelanders Gaming Hub - discord.gg/CgNTdpUMU2
+
+Strictly Survival - discord.gg/XpCvs6RwsD
+
+![Bluds logo](https://github.com/user-attachments/assets/d23a663f-2f5b-4f70-ba45-0fc52c5511d2)
+
+
+
+
