@@ -1,4 +1,4 @@
-# Blud---World-Level-Design
+# Blud---1st ever attempt at world design
 
 These are screenshots from my first ever attempt at building a world, with no experience with this stuff before or with unity's software. I had no idea you could create terrain without using assets or even snap objects together or to the ground! All of what i did here i did with a £9 synty low poly pack and had major restrictions on the amount of assets i had available. Now, with more experience this build drives me crazy LOL.
 
