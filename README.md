@@ -34,6 +34,17 @@ These are screenshots from my first ever attempt at building a more realistic wo
 
 ![Screenshot 2025-05-07 113341](https://github.com/user-attachments/assets/96c427e9-7c09-4563-811e-acfabc61928d)
 
+![Screenshot 2025-05-07 151508](https://github.com/user-attachments/assets/d2e3906c-1f30-4c82-9cd8-6a4917d5f9ab)
+
+![Screenshot 2025-05-07 151722](https://github.com/user-attachments/assets/57bb10fb-19b1-461f-a146-63c4c4d62a81)
+
+![Screenshot 2025-05-07 145232](https://github.com/user-attachments/assets/6b012e1b-0cbd-4bfe-8a48-26310fc323a8)
+
+![Screenshot 2025-05-07 152622](https://github.com/user-attachments/assets/a45e725c-d987-4fd0-8b45-057d164f9163)
+
+
+
+
 
 
 
