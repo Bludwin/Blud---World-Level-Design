@@ -42,6 +42,9 @@ These are screenshots from my first ever attempt at building a more realistic wo
 
 ![Screenshot 2025-05-07 152622](https://github.com/user-attachments/assets/a45e725c-d987-4fd0-8b45-057d164f9163)
 
+![Screenshot 2025-05-07 153113](https://github.com/user-attachments/assets/8e10c8d3-3bf9-4746-a468-c25de8329273)
+
+
 
 
 
