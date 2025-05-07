@@ -3,9 +3,9 @@ This Repository serves as my portfolio. I am new to the industry and have starte
 
 I am 29 year old male from south wales U.K. My journey started with unity's online "create with code" courses and from there fell in love with the world design and decided to work on my own low poly world, this work was immediately loved by others and i was invited to have the role of level designer, working on a game called voidfall.
 
-My skills are fast developing and my creative approach to world design comes naturally. 
+With little to no experience my skills are fast developing and my creative approach to world design comes naturally! i am continuing to sit more online courses as i work on voidfall with the rest od the dev team.
 
-I am currently seeking a full time career within the game development industry to work in level design / world design. I hope you enoy what is to be added as i continue my journey towards my goals & continue to work with the voidfall dev team to complete a finished product of our beautiful game. 
+However, I am currently seeking a full time career within the game development industry to work in level design / world design. I hope you enoy what is to be added as i continue my journey towards my goals & continue to work with the voidfall dev team to complete a finished product of our beautiful game. 
 
 Please Check the created branches for images examples of my work.
 
