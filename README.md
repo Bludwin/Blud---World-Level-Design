@@ -44,6 +44,36 @@ These are screenshots from my first ever attempt at building a more realistic wo
 
 ![Screenshot 2025-05-07 153113](https://github.com/user-attachments/assets/8e10c8d3-3bf9-4746-a468-c25de8329273)
 
+![Screenshot 2025-05-08 121333](https://github.com/user-attachments/assets/d5a6fdb2-9403-45e7-b5ff-1166e543c329)
+
+![Screenshot 2025-05-08 113741](https://github.com/user-attachments/assets/7423da04-737d-41e3-a007-d06b85a7a10d)
+
+![Screenshot 2025-05-08 114735](https://github.com/user-attachments/assets/d0a64386-7dda-4898-afb6-7e33d54d4931)
+
+![Screenshot 2025-05-08 140239](https://github.com/user-attachments/assets/ea88d6af-1600-4c69-8308-87b19665c4a8)
+
+![Screenshot 2025-05-08 174802](https://github.com/user-attachments/assets/dfccb206-2f71-4f5a-adfa-52613239cdeb)
+
+![Screenshot 2025-05-08 170406](https://github.com/user-attachments/assets/b04eb94d-5d63-4c50-8ffb-04793769b619)
+
+![Screenshot 2025-05-08 174647](https://github.com/user-attachments/assets/55fdff63-43ac-4b66-b5ae-8f44080a0546)
+
+![Screenshot 2025-05-08 174707](https://github.com/user-attachments/assets/8e8bf199-6f5a-42fb-a32a-1d266cf69923)
+
+![Screenshot 2025-05-08 174746](https://github.com/user-attachments/assets/b8e288c0-94e5-4f55-9dc2-0c9cbe042f83)
+
+![Screenshot 2025-05-08 175204](https://github.com/user-attachments/assets/88600bbf-1341-49a0-ae1f-ecdd9876036f)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
