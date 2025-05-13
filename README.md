@@ -64,6 +64,14 @@ These are screenshots from my first ever attempt at building a more realistic wo
 
 ![Screenshot 2025-05-08 175204](https://github.com/user-attachments/assets/88600bbf-1341-49a0-ae1f-ecdd9876036f)
 
+![Screenshot 2025-05-13 151543](https://github.com/user-attachments/assets/35bd59bc-dc70-41e8-bdfe-1945ce08fb95)
+
+My First Cave attempt using blender ; ![Screenshot 2025-05-13 135416](https://github.com/user-attachments/assets/50f745d4-67e3-4717-b48c-7c75b5afd82c)
+Inside the cave ; ![Screenshot 2025-05-13 135554](https://github.com/user-attachments/assets/7402338c-57d8-4d55-bd5b-b7448449124a)
+
+
+
+
 
 
 
