@@ -2,6 +2,8 @@
 
 These are screenshots from my first ever attempt at building a more realistic world than my previous low poly attempt. This is for the game voidfall where i have been given the role of level designer. There is no 3d art creator within the dev team yet so My job of building this world consists of also looking for free assets on the unity store that i can use along side other free assets from other content crators. If I had access to unique assets I would be able to build and design worlds much easier and faster. The voidfall theme is souls like with a space theme to it, 2 very hard artworks to blend considering I am using seperate artwork from different creators. This is just the first world. It has a long way to go still so i will continue to post the updates here as i develop the world.
 
+Notes ; - I have referenced the scale of all placeable items against a 6ft character model
+
 ![Screenshot 2025-04-30 122007](https://github.com/user-attachments/assets/f0e3d360-fb99-4d6b-9281-e8679238b2cb)
 
 ![Screenshot 2025-04-30 142740](https://github.com/user-attachments/assets/96ac3e0a-72d8-4af6-92d9-d663852d413d)
