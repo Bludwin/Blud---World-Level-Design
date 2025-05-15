@@ -7,7 +7,7 @@ With little to no experience my skills are fast developing and my creative appro
 
 However, I am currently seeking a full time career within the game development industry to work in level design / world design. I hope you enoy what is to be added as i continue my journey towards my goals & continue to work with the voidfall dev team to complete a finished product of our beautiful game. 
 
-Please Check the created branches for images examples of my work.
+Please Check the created branches for images & examples of my work.
 
 PEACE :) 
 
