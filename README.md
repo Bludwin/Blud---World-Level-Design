@@ -68,8 +68,11 @@ Notes ; - I have referenced the scale of all placeable items against a 6ft chara
 
 ![Screenshot 2025-05-13 151543](https://github.com/user-attachments/assets/35bd59bc-dc70-41e8-bdfe-1945ce08fb95)
 
-My First Cave attempt using blender ; ![Screenshot 2025-05-13 135416](https://github.com/user-attachments/assets/50f745d4-67e3-4717-b48c-7c75b5afd82c)
-Inside the cave ; ![Screenshot 2025-05-13 135554](https://github.com/user-attachments/assets/7402338c-57d8-4d55-bd5b-b7448449124a)
+![Screenshot 2025-05-20 161954](https://github.com/user-attachments/assets/12f17ecb-bd2c-41f7-badb-ebc69daff841)
+
+![Screenshot 2025-05-20 172117](https://github.com/user-attachments/assets/dba4b7ef-3484-42a4-94b8-d3279ba4c750)
+
+
 
 
 
